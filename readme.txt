@@ -8,3 +8,5 @@ git change2.2
 git change2.3
 git change36
 git management 
+git add a new line balabalabala
+the new change
